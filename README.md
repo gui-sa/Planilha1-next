@@ -8,3 +8,4 @@ Criar uma pagina simples que:
  - NPM v9.6.1
  - NEXT.JS v14.0.2
  - Tailwind v3.3.0
+ - Supabase BaaS
