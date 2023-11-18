@@ -115,7 +115,7 @@ export function LeadForm() {
                     <Input placeholder="Digite aqui seu numero de telefone" {...field} />
                   </FormControl>
                   <FormDescription>
-                    Exemplo: (17)91111-1111
+                    Exemplo: 17911112222
                   </FormDescription>
                   <FormMessage />
                 </FormItem>
